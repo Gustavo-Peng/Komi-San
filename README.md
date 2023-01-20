@@ -113,5 +113,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ## `EDITOR & PORPIETARIO DEL BOT` 
 <a href="https://github.com/Gustavo-Peng"><img src="https://github.com/Gustavo-Peng.png" width="250" height="250" alt="Gustavo-Peng"/></a>
-  
+ 
+ ## `AGRADECIMIENTOS OBLIGATORIOS PINCHI BRUNO Y LA SOFI`
+  [![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) <img src="https://c.tenor.com/c8SIN4sVRgsAAAAC/cat-kitten.gif" height="100px">
+
+[![SOFI-BOTS](https://github.com/SOFI-BOTS.png?size=100)](https://github.com/SOFI-BOTS)
+ 
 `Komi-San - By Gustavo Peng`
