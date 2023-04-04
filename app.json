@@ -1,0 +1,38 @@
+{
+  "name": "Komi-San",
+  "website": "https://github.com/Gustavo-Peng",
+  "description": "Subscribete a The Shadow Borkers - Bot (≧▽≦)",
+  "repository": "https://github.com/Gustavo-Peng/Komi-San",
+  "logo": "https://raw.githubusercontent.com/Gustavo-Peng/Komi-San/master/src/pictures/heroku-icon.jpg",
+  "success_url": "https://github.com/Gustavo-Peng/Komi-San",
+  "keywords": [
+    "nodejs",
+    "heroku",
+    "bot",
+    "bots",
+    "bot",
+    "spanish",
+    "whatsapp",
+    "termux",
+    "shadow",
+    "multi-device",
+    "md",
+    "whatsappbot",
+    "oficial",
+    "whatsapp-md",
+    "themysticbot",
+    "themystic-bot",
+    "Komi-San"],
+  "image": "heroku/nodejs",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
+    }    
+ ]
+}
